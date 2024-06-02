@@ -93,7 +93,19 @@
     background-color: white;
     color: black;
   } 
-
+  .pop-up .btn-contactus {
+    background-color: #f74681;
+    color: #fff;
+    padding: 12px 30px;
+    margin: 20px;
+    border: none;
+    width: 90%;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
 
   /* slide2 */
   .slide2 {
